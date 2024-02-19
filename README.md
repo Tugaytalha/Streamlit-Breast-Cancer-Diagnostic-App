@@ -28,3 +28,7 @@ Install the required dependencies: pip install -r requirements.txt
 Run the Streamlit app: streamlit run app.py
 Upload a CSV file containing breast cancer data.
 Explore the data, choose a machine learning model, and view the results.
+## Contributors
+Tugay Talha İçen (https://github.com/Tugaytalha)
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
